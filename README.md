@@ -1,2 +1,2 @@
-# Design_Patterns
+# Design Patterns
  Gang of Four Design Patterns
